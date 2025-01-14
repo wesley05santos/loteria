@@ -14,8 +14,8 @@ Confirm more 18
     Click Element                    locator=${ELEMENT_YES_MORE_18}
 
 Select "Mega da Virada" option
-    Wait Until Element Is Visible    locator=${DIV_MEGA_VIRADA_LOCATOR}
-    Click Element                    locator=${DIV_MEGA_VIRADA_LOCATOR}
+    Wait Until Element Is Visible    locator=${DIV_MEGA_SENA_LOCATOR}
+    Click Element                    locator=${DIV_MEGA_SENA_LOCATOR}
 
 Select numbers
     Wait Until Element Is Visible    locator=${ELEMENT_COMPLETE_GAME_LOCATOR}
