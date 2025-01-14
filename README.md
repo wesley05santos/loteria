@@ -1,5 +1,4 @@
-# Automação Web para Mega da Virada
-
+# Automação Web para Mega Sena
 Esta automação teve por finalidade, facilitar o lançamento dos números no bolão da mega sena da virada no fim do ano.
 
 Fizemos o tão famoso bolão de empresa da mega da virada, porém arrecadamos um valor interessante e isto gerou uma questão.
